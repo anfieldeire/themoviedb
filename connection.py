@@ -15,7 +15,7 @@ class Moviedb:
         self.vote_average_min = 7
         self.my_genre = 53  # Thriller
         self.base_url = 'https://api.themoviedb.org/3/'
-        self.api_key = '92f7a1bdacdbb5e10522ed1edef65cad'
+        self.api_key = 'api_key'
 
     def authentication(self):
 
