@@ -21,6 +21,6 @@ Practice program to Connect to The Movie DB API
 
 ### Setup
 - Create a python virtual environment
-- Activate the environement
+- Activate the environment
 - From command line run: pip install -r requirements.txt
 - Modify the movie configuration parameters as needed.
