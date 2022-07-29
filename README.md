@@ -1,6 +1,10 @@
 # The Movie DB
 Practice program to Connect to The Movie DB API
 
+### Genres Search
+- Genres search returns a dictionary of genres and genre id's
+- Use this to find the genre id, and use that to set the parameter my_genre, which is used in the other functions
+
 ### Discover Movies
 - Find movies released this year of a certain genre, rating and vote count
 - Print that data as a list with dictionaries for each movie
