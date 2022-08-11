@@ -1,5 +1,5 @@
 # The Movie DB
-Practice program to Connect to The Movie DB API
+Practice program to Connect to The Movie DB API, make queries and return data
 
 ## Pre-Requisties
 - Created on Python 3.6, virtual environment
